@@ -31,3 +31,5 @@
 }
 
 generateFibonacci(15);
+
+?>

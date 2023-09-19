@@ -32,3 +32,5 @@ for ($i = 2; $i < $n; $i++) {
     $first = $second;
     $second = $next;
 }
+
+?>
