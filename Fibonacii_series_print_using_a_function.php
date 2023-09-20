@@ -30,6 +30,12 @@
     }
 }
 
+// echo "Enter the number of Fibonacci numbers to generate: ";
+// $n = intval(trim(fgets(STDIN)));
+
+// generateFibonacci($n);
 generateFibonacci(15);
+
+
 
 ?>
